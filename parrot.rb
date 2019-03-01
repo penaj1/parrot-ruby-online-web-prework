@@ -5,3 +5,5 @@
   end
   
 puts parrot
+
+def p
